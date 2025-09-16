@@ -7,17 +7,17 @@
 
 ## 💻 À propos de moi
 
-Je suis actuellement étudiant en BUT Informatique, passionné par le développement web et logiciel. Curieux et motivé, j'aime apprendre de nouvelles technologies et travailler sur des projets concrets pour progresser.
+Je suis actuellement étudiant en BUT Informatique, passionné par le développement web et la conteneurisation. Curieux et motivé, j'aime apprendre de nouvelles technologies et travailler sur des projets concrets pour progresser.
 
-Je m'intéresse particulièrement au développement **frontend** mais je m'initie aussi aux bases du **backend** et du **développement logiciel** en général.
+Je m'intéresse particulièrement au développement **frontend** mais je m'initie aussi aux bases du **backend** et de la conteneurisation avec **docker**.
 
 
 
 ## 🧰 Langages & Technologies
 
-- 🌐 HTML, CSS, SCSS, JavaScript  
-- ⚙️ C++, Java  
-- 🧪 Git, GitHub, VS Code, IntelliJ, etc.
+- 🌐 `HTML`, `CSS`, `JavaScript` & `PHP`
+- ⚙️ `C++`, `Java`, `SQL` & `python`
+- 🧪 `Git`, `GitHub`, `VS Code` & `docker`
 
 
 
@@ -31,10 +31,6 @@ Je m'intéresse particulièrement au développement **frontend** mais je m'initi
 
 ## 📫 Me contacter
 
-- ✉️ Email : enzo.cordovana@etu.univ-amu.fr
+- ✉️ Email : enzocordo66@gmail.com
 - 💼 LinkedIn : [Enzo Cordovana](https://www.linkedin.com/in/enzocordovana/)
 - 🌍 Portfolio : en cours...
-
-
-
-Merci de visiter mon profil ! 😊
